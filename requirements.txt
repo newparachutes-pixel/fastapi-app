@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+pydantic
+joblib
+pandas
+requests  # si tu veux tester des requêtes HTTP
